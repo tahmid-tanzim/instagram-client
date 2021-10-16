@@ -129,6 +129,7 @@
     "serverless-webpack": "^5.5.4",
     "set-value": "^4.0.1",
     "trim-newlines": "^3.0.1",
+    "url-parse": ">=1.5.2",
     "webpack": "^5.53.0",
     "webpack-node-externals": "^3.0.0"
   }
